@@ -1,0 +1,5 @@
+objeto = {
+    name: name,
+    precio, precio,
+    ingrediente: [ingrediente]
+}
